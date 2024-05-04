@@ -13,7 +13,7 @@ body {
 }
 
 #header {
-    background-image: url(Background.jpg);
+    background-image: url(Background.png);
     background-size:50%;
     background-position:center top 12%;
     background-repeat: no-repeat;
@@ -32,6 +32,7 @@ nav {
 
 .logo {
     width: 140px;
+   border-radius: 60%;
 }
 
 nav ul li {
